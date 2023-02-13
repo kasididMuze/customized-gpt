@@ -1,4 +1,4 @@
-import { argumentResolver } from "../../utils/argHandler"
+import { argumentResolver } from "../../utils/getArgs"
 
 describe('argument handler', () => {
   it.each`
